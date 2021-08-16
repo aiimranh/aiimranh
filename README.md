@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [<b> the github repo </b>](https://github.com/aiimranh)
 
-- 📝 I regularly write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
+- 📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
 
 - 💬 Ask me about <b> C, C++, Python 3, Matlab, HTML, CSS </b>
 
