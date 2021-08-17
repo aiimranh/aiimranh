@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm A.I. Imran (formerly, Imran)🐱‍🏍</h1>
 <h3 align="center">I’m interested in all sector related in Technology, Science, Engineering</h3>
 
-- 🔭 I’m currently working on <b> Some Python 3 & C++ Projects. </b>
+- 🔭 At present, I'm working on <b> some Python3 & C++ Projects. </b>
 
-- 🌱 I’m currently learning <b> Python 3 </b>
+- 🌱 Right now, I’m also learning <b> Python3 </b>
 
 - 👯 I’m looking to collaborate on <b> any programming based projects </b>
 
-- 👨‍💻 All of my projects are available at [<b> the github repo </b>](https://github.com/aiimranh)
+- 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)
 
 - 📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <b> hmimran.in@gmail.com </b>
 
-- ⚡ Fun facts : <b> Watching Movies, Series, Watching Political & Technical Videos, Reading Blogs </b>
+- ⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Video & Some Time Political Video also.</b>
 
 ### Connect with me:
 
