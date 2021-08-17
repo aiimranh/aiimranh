@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <b> hmimran.in@gmail.com </b>
 
-- ⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Video & Some Time Political Video also.</b>
+- ⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Videos & Sometimes Political Videos also.</b>
 
 ### Connect with me:
 
