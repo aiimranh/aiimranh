@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
 
-- 💬 Ask me about <b> C, C++, Python 3, Matlab, HTML, CSS </b>
+- 💬 Ask me about <b> C, C++, Python3, Matlab, HTML, CSS </b>
 
 - 📫 How to reach me <b> hmimran.in@gmail.com </b>
 
