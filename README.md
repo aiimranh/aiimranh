@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm A.I. Imran (formerly, Imran)🐱‍🏍</h1>
+<h1 align="center">Hi there 👋, I'm Imran🐱‍🏍</h1>
 <h3 align="center">I’m interested in all sector related in Technology, Science, Engineering</h3>
 
 - 🔭 At present, I'm working on <b> some Python3 & C++ Projects. </b>
