@@ -1,17 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Imran🐱‍🏍</h1>
+<h1 align="center">Hi there👋, I'm Imran🐱‍🏍</h1>
 <h3 align="center">I’m interested in all sector related in Technology, Science, Engineering</h3>
 
-- 🔭 At present, I'm working on <b> some Python3 & C++ Projects. </b>
+- 🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
-- 🌱 Right now, I’m also learning <b> Python3 </b>
+- 🌱 Right now, I’m also learning <b> Python3, Machine Learning, Deep Learning. </b>
 
-- 👯 I’m looking to collaborate on <b> any programming based projects </b>
+- 👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b>
 
 - 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)
 
 - 📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
 
-- 💬 Ask me about <b> C, C++, Python3, Matlab, HTML, CSS </b>
+- 💬 Ask me about <b> C, C++, PYTHON3, MATLAB, HTML, CSS </b>
 
 - 📫 How to reach me <b> hmimran.in@gmail.com </b>
 
