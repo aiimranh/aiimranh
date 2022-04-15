@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Imran🐱‍🏍</h1>
-<h3 align="center">I’m interested in all sector related in Technology, Science, Engineering</h3>
+<h3 align="center">I’m interested in Technology, Science, Engineering</h3>
 
 - 🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
