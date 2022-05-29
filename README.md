@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm MD. IMRAN</h1>
 
-* <font size="5"> 🔭 At present, I'm working on <b> Data Science </b> Projects.</font>   
+<font size="5"> 🔭 At present, I'm working on <b> Data Science </b> Projects.</font>   
 
 * <font size="5"> 🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b></font>
 
