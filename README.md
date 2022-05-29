@@ -28,7 +28,6 @@
 [<img src='https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white' alt='tumblr' height='40'>](https://www.tumblr.com/blog/aiimranh)
 [<img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white' alt='pinterest' height='40'>](https://www.instagram.com/aiimranh)
 [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16578474/aiimranh)
-
 [<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='Reddit' height='40'>](https://www.reddit.com/user/aiimranh)  
 
 
