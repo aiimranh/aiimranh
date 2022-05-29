@@ -1,4 +1,4 @@
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 300%;">Hi there, I'm Imran </span>
+<h1 align="center">Hi there, I'm MD. IMRAN</h1>
 
 - 🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
