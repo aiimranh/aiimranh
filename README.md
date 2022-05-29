@@ -1,20 +1,20 @@
 <h1 align="center">Hi there, I'm MD. IMRAN</h1>
 
-* <font size="4"> 🔭 At present, I'm working on <b> Data Science </b> Projects.</font>   
+* <font size="5"> 🔭 At present, I'm working on <b> Data Science </b> Projects.</font>   
 
-* <font size="4"> 🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b></font>
+* <font size="5"> 🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b></font>
 
-* <font size="4">👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b></font>
+* <font size="5">👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b></font>
 
-* <font size="4"> 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)</font>
+* <font size="5"> 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)</font>
 
-* <font size="4">📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)</font>
+* <font size="5">📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)</font>
 
-* <font size="4">💬 Ask me about <b> C, C++, PYTHON3, MATLAB, HTML, CSS </b></font>
+* <font size="5">💬 Ask me about <b> C, C++, PYTHON3, MATLAB, HTML, CSS </b></font>
 
-* <font size="4">📫 How to reach me <b> hmimran.in@gmail.com </b></font>
+* <font size="5">📫 How to reach me <b> hmimran.in@gmail.com </b></font>
 
-* <font size="4">⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Videos & Sometimes Political Videos also.</b></font>
+* <font size="5">⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Videos & Sometimes Political Videos also.</b></font>
 
 ### CONNECT WITH ME:
 
