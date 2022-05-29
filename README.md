@@ -2,9 +2,11 @@
 ### Here you'll found a small sample of projects I've hacked on over the years.
 
 #
-## 🌱 I'm currently learning: 
-<img src="./svg/ai.svg" alt="ai" height="40"/> 
+## 🌱 I'm currently learning:
+<p align="left">
+<img src="./svg/ai.svg" alt="ai" height="40"/>
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" height="40"/>
+</p>
 
 #
 ### CONNECT WITH ME:
