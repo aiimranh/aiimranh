@@ -1,19 +1,4 @@
-<style>
-    span{
-        color:#fff;
-        font-family: 'Bebas Neue';
-        font-size: 300%;
-    }
-
-    p {
-        color:#fff;
-        font-family: 'Bebas Neue';
-        font-size: 150%;
-    }
-
-</style>
-
-<span> Hi there, I'm Imran </span>
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 300%;">Hi there, I'm Imran </span>
 
 - 🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
