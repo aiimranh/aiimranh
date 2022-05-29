@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm MD. IMRAN</h1>
 
-- 🔭 At present, I'm working on <b> Data Science </b> Projects. 
+###  🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
-- 🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b>
+###  🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b>
 
-- 👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b>
+## 👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b>
 
-- 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)
+## 👨‍💻 All of my projects are/will available at [<b> the github repo </b>](https://github.com/aiimranh)
 
 - 📝 I occasionally write articles on [<b> blogspot </b>](https://imranh37.blogspot.com/)
 
