@@ -18,6 +18,7 @@
 
 ### CONNECT WITH ME:
 
+<p align="left">
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' height='40'>](https://github.com/aiimranh)
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/aiimranh/)
@@ -37,7 +38,7 @@
 [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16578474/aiimranh)
 
 [<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='Reddit' height='40'>](https://www.reddit.com/user/aiimranh)  
-
+</p>
 
 ### LANGUAGES:
 
