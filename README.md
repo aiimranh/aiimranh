@@ -1,9 +1,23 @@
-<h1 align="center">Hi there👋, I'm Imran🐱‍🏍</h1>
-<h3 align="center">I’m interested in Technology, Science, Engineering</h3>
+<style>
+    span{
+        color:#fff;
+        font-family: 'Bebas Neue';
+        font-size: 300%;
+    }
+
+    p {
+        color:#fff;
+        font-family: 'Bebas Neue';
+        font-size: 150%;
+    }
+
+</style>
+
+<span> Hi there, I'm Imran </span>
 
 - 🔭 At present, I'm working on <b> Data Science </b> Projects. 
 
-- 🌱 Right now, I’m also learning <b> Python3, Machine Learning, Deep Learning. </b>
+- 🌱 Right now, I'm also learning <b> Python3, Machine Learning, Deep Learning. </b>
 
 - 👯 I’m looking to collaborate on <b> Data Science and ML </b> based projects. </b>
 
@@ -17,18 +31,25 @@
 
 - ⚡ Fun facts : <b> Reading Blogs, Watching Movies, Series, Technical Related Videos & Sometimes Political Videos also.</b>
 
-### Connect with me:
+## Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aiimranh)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-imran-0052871a4/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aiimranh) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aiimranh/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aiimranh) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://www.tumblr.com/blog/aiimranh) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/aiimranh) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16578474/aiimranh)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aiimranh)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/aiimranh)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' height='40'>](https://github.com/aiimranh)
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-imran-0052871a4/) 
+
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/aiimranh)
+
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/aiimranh/)
+
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/aiimranh)
+
+[<img src='https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white' alt='tumblr' height='40'>](https://www.tumblr.com/blog/aiimranh)
+
+[<img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white' alt='pinterest' height='40'>](https://www.instagram.com/aiimranh)
+
+[<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16578474/aiimranh)
+
+[<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='Reddit' height='40'>](https://www.reddit.com/user/aiimranh)  
 
 
 ### Tools and Languages:
