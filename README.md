@@ -53,9 +53,14 @@
 ### MACHINE LEARNING/DEEP LEARNING:
 
 <p align="left">
+<!-- a normal html comment -->
+<!--
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="cplusplus" height="30"/>
+-->
 
+<!--
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="html5" height="30"/>
+-->
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="c" height='30'/>
 
@@ -65,9 +70,13 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="html5" height="30"/>
 
+<!--
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="css3" height="30"/>
+-->
 
+<!--
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="html5" height="30"/>
+-->
 </p>
 
 #
