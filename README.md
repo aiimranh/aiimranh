@@ -17,5 +17,3 @@
 
 #
 ### [FOR MORE DETAILS](Extended_Readme.md)
-
-#
