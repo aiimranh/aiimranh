@@ -1,3 +1,6 @@
+## SKILLS I HAVED LEARNT:
+#
+#
 ### LANGUAGES:
 
 <p align="left">
@@ -153,15 +156,36 @@
 </p>
 
 #
+#
+## STATS:
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiimranh)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aiimranh)
+
+#
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiimranh&show_icons=true)  
+
+#
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiimranh)  
+
+
+
+#
+
+![GitHub metrics](https://metrics.lecoq.io/aiimranh)  
+
+ 
+
+#
+#
 ### CONNECT WITH ME:
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height='30'>](mailto:hmimran.in@gmail.com)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/aiimranh/)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='facebook' height='30'>](https://medium.com/@aiimranh)
-[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/aiimranh)
 [<img src='https://img.shields.io/badge/Instagram-E4305F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/aiimranh/)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/aiimranh)
 [<img src='https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white' alt='tumblr' height='30'>](https://www.tumblr.com/blog/aiimranh)
-
 [<img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white' alt='pinterest' height='30'>](https://www.instagram.com/aiimranh)
 [<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='Reddit' height='30'>](https://www.reddit.com/user/aiimranh)
 [<img src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white' height='30'>](https://imranh37.blogspot.com/)
