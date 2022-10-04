@@ -16,28 +16,6 @@
 [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/aiimranh)
 
 #
-#
-### FOR MORE DETAILS:
-[](Extended_Readme.md)
-
-#
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiimranh)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiimranh&show_icons=true)  
-
-#
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiimranh)  
-
-#
-
-![GitHub metrics](https://metrics.lecoq.io/aiimranh)  
-
-#
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aiimranh)  
+### [FOR MORE DETAILS](Extended_Readme.md)
 
 #
