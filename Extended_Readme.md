@@ -165,3 +165,24 @@
 [<img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white' alt='pinterest' height='30'>](https://www.instagram.com/aiimranh)
 [<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white' alt='Reddit' height='30'>](https://www.reddit.com/user/aiimranh)
 [<img src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white' height='30'>](https://imranh37.blogspot.com/)
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiimranh)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiimranh&show_icons=true)  
+
+#
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiimranh)  
+
+#
+
+![GitHub metrics](https://metrics.lecoq.io/aiimranh)  
+
+#
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aiimranh)  
+
+#
