@@ -1,6 +1,5 @@
 ## SKILLS I HAVED LEARNT:
 #
-#
 ### LANGUAGES:
 
 <p align="left">
