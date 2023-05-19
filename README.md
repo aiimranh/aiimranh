@@ -3,8 +3,11 @@
 
 #
 ## 🌱 I'm currently learning:
-<p align="left">
-<img src="./svg/ai.svg" alt="ai" height="30"/>
+<!-- <p align="left"> -->
+<!-- <img src="./svg/ai.svg" alt="ai" height="30"/> -->
+
+* <s>DEEP LEARNING</s>
+* LABVIEW
 <!--- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" height="30"/> -->
 </p>
 
