@@ -11,9 +11,8 @@
 <!--- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" height="30"/> -->
 </p>
 
-## SKILLS I HAVED LEARNT:
 #
-### LANGUAGES:
+### Languages I Have Learnt:
 
 <p align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height='30'/>
