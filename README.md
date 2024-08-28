@@ -4,14 +4,11 @@
 #
 ## 🌱 I'm currently learning:
 
-* Python3 (resume) 
-* LabVIEW (Pause) 
-* Deep Learning (Pause) <p>
+🥚
 #
 ### Languages I Have Learnt:
 
 <p align="left">
-
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30"/>
 
