@@ -1,10 +1,6 @@
 ## Hi there,🐱‍🏍🎈
-### Here is a small sample of work I've hacked on over the years.
+### Here is a small sample of work I've hacked or learnt on over the years.
 
-#
-## 🌱 I'm currently learning:
-
-🥚
 #
 ### Languages I Have Learnt:
 
